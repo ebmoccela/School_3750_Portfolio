@@ -1,0 +1,3 @@
+[submodule "School_Weather_API/Code"]
+	path = School_Weather_API/Code
+	url = https://github.com/GoatRydah/School_WeatherAPI.git
