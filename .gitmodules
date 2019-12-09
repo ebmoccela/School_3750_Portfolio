@@ -1,3 +1,9 @@
 [submodule "School_Weather_API/Code"]
 	path = School_Weather_API/Code
 	url = https://github.com/GoatRydah/School_WeatherAPI.git
+[submodule "School_Egyptian_Ratscrew/Code"]
+	path = School_Egyptian_Ratscrew/Code
+	url = https://github.com/GoatRydah/School_EgyptianRatscrew.git
+[submodule "School_Typing_Game/Code"]
+	path = School_Typing_Game/Code
+	url = https://github.com/ebmoccela/School_Typing_Game.git
